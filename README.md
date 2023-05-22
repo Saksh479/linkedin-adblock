@@ -7,7 +7,7 @@ Ad Blocking: Say goodbye to disruptive ads while browsing LinkedIn. The extensio
 Seamless Integration: The extension seamlessly integrates with your preferred chromium-based browser, providing a hassle-free experience.
 
 # Steps to use the adblocker
-Clone or download the repository to your local machine.
-Open your browser's extensions or add-ons page.
-Enable developer mode or turn on developer options.
-Click on "Load unpacked" or "Load extension" and select the folder containing the extension's files.
+>Clone or download the repository to your local machine.
+>Open your browser's extensions or add-ons page.
+>Enable developer mode or turn on developer options.
+>Click on "Load unpacked" or "Load extension" and select the folder containing the extension's files.
